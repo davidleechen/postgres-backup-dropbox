@@ -1,0 +1,1 @@
+# Mount script from ConfigMap in a kubernetes manifest
