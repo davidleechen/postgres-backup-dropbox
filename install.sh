@@ -5,9 +5,6 @@ set -e
 
 apk update
 
-# install pg_dump
-apk add postgresql
-
 apk add curl
 
 apk add jq
